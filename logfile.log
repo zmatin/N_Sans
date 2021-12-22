@@ -1,56 +1,166 @@
-2021-10-25 10:04:52,406 :INFO :testone :True
-2021-10-25 10:04:52,694 :INFO :testone :True
-2021-10-25 10:04:53,237 :INFO :testone :True
-2021-10-25 10:04:54,040 :INFO :testone :True
-2021-10-25 10:04:55,126 :INFO :testone :True
-2021-10-25 10:04:56,477 :INFO :testone :True
-2021-10-25 10:04:58,056 :INFO :testone :True
-2021-10-25 10:04:58,056 :INFO :testone :all hover buttons verified
-2021-10-25 10:04:59,459 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
-2021-10-25 10:04:59,487 :INFO :testone :True
-2021-10-25 10:05:10,947 :INFO :test_two :True
-2021-10-25 10:05:10,968 :INFO :test_two :True
-2021-10-25 10:05:13,230 :INFO :test_two :True
-2021-10-25 10:05:13,260 :INFO :test_two :True
-2021-10-25 10:19:23,340 :INFO :testone :True
-2021-10-25 10:19:23,646 :INFO :testone :True
-2021-10-25 10:19:24,191 :INFO :testone :True
-2021-10-25 10:19:25,021 :INFO :testone :True
-2021-10-25 10:19:26,099 :INFO :testone :True
-2021-10-25 10:19:27,446 :INFO :testone :True
-2021-10-25 10:19:29,022 :INFO :testone :True
-2021-10-25 10:19:29,022 :INFO :testone :all hover buttons verified
-2021-10-25 10:19:30,438 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
-2021-10-25 10:19:30,464 :INFO :testone :True
-2021-10-25 10:19:38,264 :INFO :test_two :True
-2021-10-25 10:19:38,286 :INFO :test_two :True
-2021-10-25 10:19:40,619 :INFO :test_two :True
-2021-10-25 10:19:40,649 :INFO :test_two :True
-2021-10-25 11:08:03,929 :INFO :testone :True
-2021-10-25 11:08:04,229 :INFO :testone :True
-2021-10-25 11:08:04,771 :INFO :testone :True
-2021-10-25 11:08:05,571 :INFO :testone :True
-2021-10-25 11:08:06,630 :INFO :testone :True
-2021-10-25 11:08:07,982 :INFO :testone :True
-2021-10-25 11:08:09,553 :INFO :testone :True
-2021-10-25 11:08:09,554 :INFO :testone :all hover buttons verified
-2021-10-25 11:08:10,984 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
-2021-10-25 11:08:11,011 :INFO :testone :True
-2021-10-25 11:08:18,778 :INFO :test_two :True
-2021-10-25 11:08:18,800 :INFO :test_two :True
-2021-10-25 11:08:21,257 :INFO :test_two :True
-2021-10-25 11:08:21,287 :INFO :test_two :True
-2021-10-26 16:28:55,578 :INFO :testone :True
-2021-10-26 16:28:55,871 :INFO :testone :True
-2021-10-26 16:28:56,416 :INFO :testone :True
-2021-10-26 16:28:57,219 :INFO :testone :True
-2021-10-26 16:28:58,284 :INFO :testone :True
-2021-10-26 16:28:59,677 :INFO :testone :True
-2021-10-26 16:29:01,264 :INFO :testone :True
-2021-10-26 16:29:01,265 :INFO :testone :all hover buttons verified
-2021-10-26 16:29:02,716 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
-2021-10-26 16:29:02,746 :INFO :testone :True
-2021-10-26 16:29:10,211 :INFO :test_two :True
-2021-10-26 16:29:10,234 :INFO :test_two :True
-2021-10-26 16:29:12,702 :INFO :test_two :True
-2021-10-26 16:29:12,737 :INFO :test_two :True
+2021-10-28 11:11:54,395 :INFO :testone :True
+2021-10-28 11:11:54,683 :INFO :testone :True
+2021-10-28 11:11:55,225 :INFO :testone :True
+2021-10-28 11:11:56,026 :INFO :testone :True
+2021-10-28 11:11:57,098 :INFO :testone :True
+2021-10-28 11:11:58,430 :INFO :testone :True
+2021-10-28 11:12:00,012 :INFO :testone :True
+2021-10-28 11:12:00,012 :INFO :testone :all hover buttons verified
+2021-10-28 11:12:01,469 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-10-28 11:12:01,498 :INFO :testone :True
+2021-10-28 11:12:09,649 :INFO :test_two :True
+2021-10-28 11:12:09,678 :INFO :test_two :True
+2021-10-28 11:12:12,080 :INFO :test_two :True
+2021-10-28 11:12:12,113 :INFO :test_two :True
+2021-10-28 11:12:20,295 :INFO :test_three :True
+2021-10-28 11:12:22,099 :INFO :test_three :login successful
+2021-10-28 11:12:22,294 :INFO :test_three :True
+2021-10-28 22:52:32,432 :INFO :testone :True
+2021-10-28 22:52:32,781 :INFO :testone :True
+2021-10-28 22:52:33,377 :INFO :testone :True
+2021-10-28 22:52:34,235 :INFO :testone :True
+2021-10-28 22:52:35,580 :INFO :testone :True
+2021-10-28 22:52:36,911 :INFO :testone :True
+2021-10-28 22:52:38,534 :INFO :testone :True
+2021-10-28 22:52:38,534 :INFO :testone :all hover buttons verified
+2021-10-28 22:52:40,569 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-10-28 22:52:40,603 :INFO :testone :True
+2021-10-28 22:52:52,557 :INFO :test_two :True
+2021-10-28 22:52:52,591 :INFO :test_two :True
+2021-10-28 22:52:57,317 :INFO :test_two :True
+2021-10-28 22:52:57,353 :INFO :test_two :True
+2021-10-28 22:53:09,959 :INFO :test_three :True
+2021-10-28 23:06:26,237 :INFO :testone :True
+2021-10-28 23:06:26,528 :INFO :testone :True
+2021-10-28 23:06:27,073 :INFO :testone :True
+2021-10-28 23:06:27,875 :INFO :testone :True
+2021-10-28 23:06:28,976 :INFO :testone :True
+2021-10-28 23:06:30,300 :INFO :testone :True
+2021-10-28 23:06:31,877 :INFO :testone :True
+2021-10-28 23:06:31,877 :INFO :testone :all hover buttons verified
+2021-10-28 23:06:33,367 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-10-28 23:06:33,397 :INFO :testone :True
+2021-10-28 23:06:40,801 :INFO :test_two :True
+2021-10-28 23:06:40,826 :INFO :test_two :True
+2021-10-28 23:06:43,138 :INFO :test_two :True
+2021-10-28 23:06:43,170 :INFO :test_two :True
+2021-10-28 23:06:51,193 :INFO :test_three :True
+2021-10-28 23:06:53,443 :INFO :test_three :login successful
+2021-10-28 23:06:53,462 :INFO :test_three :True
+2021-10-29 13:53:05,716 :INFO :testone :True
+2021-10-29 13:53:06,009 :INFO :testone :True
+2021-10-29 13:53:06,554 :INFO :testone :True
+2021-10-29 13:53:07,413 :INFO :testone :True
+2021-10-29 13:53:08,472 :INFO :testone :True
+2021-10-29 13:53:09,806 :INFO :testone :True
+2021-10-29 13:53:11,389 :INFO :testone :True
+2021-10-29 13:53:11,389 :INFO :testone :all hover buttons verified
+2021-10-29 13:53:12,874 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-10-29 13:53:12,904 :INFO :testone :True
+2021-10-29 13:53:21,270 :INFO :test_two :True
+2021-10-29 13:53:21,292 :INFO :test_two :True
+2021-10-29 13:53:23,792 :INFO :test_two :True
+2021-10-29 13:53:23,823 :INFO :test_two :True
+2021-10-29 13:53:32,633 :INFO :test_three :True
+2021-10-31 09:40:36,426 :INFO :testone :True
+2021-10-31 09:40:36,730 :INFO :testone :True
+2021-10-31 09:40:37,280 :INFO :testone :True
+2021-10-31 09:40:38,129 :INFO :testone :True
+2021-10-31 09:40:39,199 :INFO :testone :True
+2021-10-31 09:40:40,530 :INFO :testone :True
+2021-10-31 09:40:42,133 :INFO :testone :True
+2021-10-31 09:40:42,133 :INFO :testone :all hover buttons verified
+2021-10-31 09:40:43,621 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-10-31 09:40:43,655 :INFO :testone :True
+2021-10-31 09:40:51,726 :INFO :test_two :True
+2021-10-31 09:40:51,747 :INFO :test_two :True
+2021-10-31 09:40:54,601 :INFO :test_two :True
+2021-10-31 09:40:54,639 :INFO :test_two :True
+2021-10-31 09:41:02,869 :INFO :test_three :True
+2021-10-31 09:41:05,468 :INFO :test_three :login successful
+2021-10-31 09:41:05,501 :INFO :test_three :True
+2021-10-31 10:26:58,953 :INFO :testone :True
+2021-10-31 10:26:59,250 :INFO :testone :True
+2021-10-31 10:26:59,795 :INFO :testone :True
+2021-10-31 10:27:00,596 :INFO :testone :True
+2021-10-31 10:27:01,662 :INFO :testone :True
+2021-10-31 10:27:03,023 :INFO :testone :True
+2021-10-31 10:27:04,602 :INFO :testone :True
+2021-10-31 10:27:04,602 :INFO :testone :all hover buttons verified
+2021-10-31 10:27:06,266 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-10-31 10:27:06,303 :INFO :testone :True
+2021-10-31 10:27:14,483 :INFO :test_two :True
+2021-10-31 10:27:14,506 :INFO :test_two :True
+2021-10-31 10:27:16,757 :INFO :test_two :True
+2021-10-31 10:27:16,788 :INFO :test_two :True
+2021-10-31 10:27:24,848 :INFO :test_three :True
+2021-10-31 10:27:26,906 :INFO :test_three :login successful
+2021-10-31 10:27:27,023 :INFO :test_three :True
+2021-10-31 10:28:04,362 :INFO :testone :True
+2021-10-31 10:28:04,652 :INFO :testone :True
+2021-10-31 10:28:05,200 :INFO :testone :True
+2021-10-31 10:28:06,008 :INFO :testone :True
+2021-10-31 10:28:07,090 :INFO :testone :True
+2021-10-31 10:28:08,445 :INFO :testone :True
+2021-10-31 10:28:10,026 :INFO :testone :True
+2021-10-31 10:28:10,026 :INFO :testone :all hover buttons verified
+2021-10-31 10:28:11,508 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-10-31 10:28:11,541 :INFO :testone :True
+2021-10-31 10:28:19,167 :INFO :test_two :True
+2021-10-31 10:28:19,189 :INFO :test_two :True
+2021-10-31 10:28:21,598 :INFO :test_two :True
+2021-10-31 10:28:21,627 :INFO :test_two :True
+2021-10-31 10:28:35,613 :INFO :test_three :True
+2021-10-31 10:28:37,999 :INFO :test_three :login successful
+2021-10-31 10:28:38,103 :INFO :test_three :True
+2021-11-01 17:23:13,282 :INFO :testone :True
+2021-11-01 17:23:13,588 :INFO :testone :True
+2021-11-01 17:23:14,137 :INFO :testone :True
+2021-11-01 17:23:14,960 :INFO :testone :True
+2021-11-01 17:23:16,077 :INFO :testone :True
+2021-11-01 17:23:17,477 :INFO :testone :True
+2021-11-01 17:23:19,069 :INFO :testone :True
+2021-11-01 17:23:19,069 :INFO :testone :all hover buttons verified
+2021-11-01 17:23:20,577 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-11-01 17:23:20,606 :INFO :testone :True
+2021-11-01 17:23:28,922 :INFO :test_two :True
+2021-11-01 17:23:28,943 :INFO :test_two :True
+2021-11-01 17:23:31,413 :INFO :test_two :True
+2021-11-01 17:23:31,459 :INFO :test_two :True
+2021-11-01 17:23:39,929 :INFO :test_three :True
+2021-11-01 17:23:41,747 :INFO :test_three :login successful
+2021-11-01 17:23:41,764 :INFO :test_three :True
+2021-11-02 11:02:49,913 :INFO :testone :True
+2021-11-02 11:02:50,269 :INFO :testone :True
+2021-11-02 11:02:50,872 :INFO :testone :True
+2021-11-02 11:02:51,804 :INFO :testone :True
+2021-11-02 11:02:52,918 :INFO :testone :True
+2021-11-02 11:02:54,346 :INFO :testone :True
+2021-11-02 11:02:55,943 :INFO :testone :True
+2021-11-02 11:02:55,943 :INFO :testone :all hover buttons verified
+2021-11-02 11:02:57,744 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-11-02 11:02:57,776 :INFO :testone :True
+2021-11-02 11:03:08,576 :INFO :test_two :True
+2021-11-02 11:03:08,606 :INFO :test_two :True
+2021-11-02 11:03:12,358 :INFO :test_two :True
+2021-11-02 11:03:12,402 :INFO :test_two :True
+2021-11-02 11:03:24,209 :INFO :test_three :True
+2021-11-02 11:03:26,457 :INFO :test_three :login successful
+2021-11-02 11:03:26,548 :INFO :test_three :True
+2021-11-08 23:14:34,834 :INFO :testone :True
+2021-11-08 23:14:35,159 :INFO :testone :True
+2021-11-08 23:14:35,704 :INFO :testone :True
+2021-11-08 23:14:36,511 :INFO :testone :True
+2021-11-08 23:14:37,569 :INFO :testone :True
+2021-11-08 23:14:38,887 :INFO :testone :True
+2021-11-08 23:14:40,466 :INFO :testone :True
+2021-11-08 23:14:40,466 :INFO :testone :all hover buttons verified
+2021-11-08 23:14:41,976 :INFO :testone :['Train and Certify', '', '', '', '', '', '', '', '', '', '', '', '', 'Manage Your Team', '', '', '', '', '', '', '', '', '', '', 'Resources', '', '', '', '', '', '', '', '', '', '', '', '', 'Focus Areas', '', '', '', '', '', '', 'Get Involved', '', '', '', '', '', '', 'About\nAbout SANS\nInstructors\nMission\nDiversity\nAwards\nContact\nFrequently Asked Questions\nCustomer Reviews\nPress', 'About SANS', 'Instructors', 'Mission', 'Diversity', 'Awards', 'Contact', 'Frequently Asked Questions', 'Customer Reviews', 'Press', 'SANS Sites', '', '', '', '', 'Log In', 'Join', '', '', '', 'Courses', 'Certifications', 'Degree Programs', 'Cyber Ranges', 'Security Policy Project', 'Posters & Cheat Sheets', 'White Papers', 'Blue Team Operations', 'Cloud Security', 'Cyber Security Leadership', 'Digital Forensics', 'Industrial Control Systems', 'Offensive Operations', 'Privacy Policy', 'Contact', 'Careers']
+2021-11-08 23:14:42,005 :INFO :testone :True
+2021-11-08 23:14:53,147 :INFO :test_two :True
+2021-11-08 23:14:53,171 :INFO :test_two :True
+2021-11-08 23:14:56,075 :INFO :test_two :True
+2021-11-08 23:14:56,145 :INFO :test_two :True
+2021-11-08 23:15:27,567 :INFO :test_three :True
+2021-11-08 23:15:30,874 :INFO :test_three :login successful
+2021-11-08 23:15:30,897 :INFO :test_three :True

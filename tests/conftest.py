@@ -1,5 +1,7 @@
 import pytest
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
 
 options = webdriver.ChromeOptions()
 options.add_argument("--disable-notifications")
@@ -13,9 +15,9 @@ def pytest_addoption(parser):
 def setup(request):
     browser_name = request.config.getoption("--browser_name")
     if browser_name == "chrome":
-        driver = webdriver.Chrome(executable_path="/usr/local/bin/chromedriver", options=options)
+        driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
     elif browser_name == "firefox":
-        driver = webdriver.Firefox(executable_path="/usr/local/bin/geckodriver")
+        driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
     driver.get("https://www.sans.org/")
     driver.maximize_window()
     request.cls.driver = driver
